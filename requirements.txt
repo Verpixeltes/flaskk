@@ -1,10 +1,13 @@
-﻿blinker==1.7.0
+blinker==1.7.0
+Brotli==1.0.9
+certifi==2023.7.22
+cffi==1.15.1
 chardet==5.2.0
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+charset-normalizer==2.0.4
 click==8.1.7
 colorama==0.4.6
 contourpy==1.2.0
-cryptography @ file:///C:/b/abs_f4do8t8jfs/croot/cryptography_1694444424531/work
+cryptography==41.0.3
 cycler==0.12.1
 filelock==3.13.1
 Flask==3.0.0
@@ -12,39 +15,41 @@ Flask-Cors==4.0.0
 fonttools==4.44.0
 fsspec==2023.10.0
 huggingface-hub==0.17.3
-idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+idna==3.4
 importlib-metadata==6.8.0
 importlib-resources==6.1.1
 itsdangerous==2.1.2
-Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
+Jinja2==3.1.2
 joblib==1.3.2
 kiwisolver==1.4.5
-MarkupSafe @ file:///C:/ci/markupsafe_1654508077284/work
+MarkupSafe==2.1.1
 matplotlib==3.8.1
-mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
-mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
+mkl-fft==1.3.8
+mkl-random==1.2.4
 mkl-service==2.4.0
-mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
-networkx @ file:///C:/b/abs_e6gi1go5op/croot/networkx_1690562046966/work
-numpy @ file:///C:/b/abs_9fu2cs2527/croot/numpy_and_numpy_base_1695830496596/work/dist/numpy-1.26.0-cp39-cp39-win_amd64.whl#sha256=9df7f35b8a04328650588772e3df359b51f1e83651ab665c98af9dbcf9a088c2
+mpmath==1.3.0
+networkx==3.1
+numpy==1.26.0
 packaging==23.2
 pandas==2.1.2
-Pillow @ file:///C:/b/abs_20ztcm8lgk/croot/pillow_1696580089746/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-pyOpenSSL @ file:///C:/b/abs_08f38zyck4/croot/pyopenssl_1690225407403/work
+Pillow==10.0.1
+pip==23.3
+pycparser==2.21
+pyOpenSSL==23.2.0
 pyparsing==3.1.1
-PySocks @ file:///C:/ci/pysocks_1605307512533/work
+PySocks==1.7.1
 python-dateutil==2.8.2
 pytz==2023.3.post1
-PyYAML @ file:///C:/b/abs_782o3mbw7z/croot/pyyaml_1698096085010/work
+PyYAML==6.0.1
 regex==2023.10.3
-requests @ file:///C:/b/abs_316c2inijk/croot/requests_1690400295842/work
+requests==2.31.0
 safetensors==0.4.0
 scikit-learn==1.3.2
 scipy==1.11.3
 seaborn==0.13.0
+setuptools==68.0.0
 six==1.16.0
-sympy @ file:///C:/b/abs_95fbf1z7n6/croot/sympy_1668202411612/work
+sympy==1.11.1
 threadpoolctl==3.2.0
 tokenizers==0.14.1
 torch==2.1.0
@@ -52,9 +57,10 @@ torchaudio==2.1.0
 torchvision==0.16.0
 tqdm==4.66.1
 transformers==4.35.0
-typing_extensions @ file:///C:/b/abs_213vg2cd1l/croot/typing_extensions_1690297804941/work
+typing_extensions==4.7.1
 tzdata==2023.3
-urllib3 @ file:///C:/b/abs_9cmlsrm3ys/croot/urllib3_1698257595508/work
+urllib3==1.26.18
 Werkzeug==3.0.1
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
+wheel==0.41.2
+win-inet-pton==1.1.0
 zipp==3.17.0
